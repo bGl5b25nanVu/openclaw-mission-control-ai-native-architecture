@@ -24,3 +24,15 @@ Defined dashboard direction as an AI control plane, not merely a reporting dashb
 
 ## Iteration 5
 Planned transitional migration path so the existing Mission Control deployment can evolve without a full rewrite.
+
+## Iteration 6
+Validated in live Mission Control runtime that board onboarding is a real lifecycle step, not an implicit side effect of board creation.
+
+## Iteration 7
+Confirmed that board lead provisioning and lead heartbeat convergence are distinct stages; autonomy is not achieved until the lead is online.
+
+## Iteration 8
+Identified the governance gap: board leads can create board-native tasks but still may not have full permission to advance task state under current policy.
+
+## Iteration 9
+Shifted the autonomy rollout pattern toward lead-created execution tasks plus manager/patrol bridge transitions as the practical intermediate architecture.

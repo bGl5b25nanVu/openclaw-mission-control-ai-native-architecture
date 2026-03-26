@@ -15,6 +15,9 @@ This repository records the architecture design, operating model, and iteration 
 - `docs/04-dashboard-control-plane.md`
 - `docs/05-migration-plan.md`
 - `docs/06-iteration-log.md`
+- `docs/18-board-onboarding-runtime.md`
+- `docs/19-board-lead-governance-gap.md`
+- `docs/20-autonomy-rollout-plan.md`
 
 ## Design stance
 Mission Control should assume:
